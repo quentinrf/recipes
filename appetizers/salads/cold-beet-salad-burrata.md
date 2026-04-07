@@ -1,3 +1,24 @@
+---
+tags:
+  - salad
+  - appetizer
+  - vegetarian
+  - french
+  - roast
+  - emulsify
+  - medium
+  - medium
+  - all-season
+  - gluten-free
+  - bright
+  - delicate
+serves: 2-4
+prep_time: 20 min
+cook_time: 60 min
+related:
+  - "[[Coconut Lime Scallop]]"
+---
+
 # Cold Roasted Beet Salad with Burrata & Walnut Dijon Vinaigrette
 
 *Serves 2–4 | Prep: 20 min | Cook: 50–60 min | Chill: 30 min*
@@ -29,7 +50,7 @@
 
 ---
 
-## Instructions
+## Method
 
 ### 1. Roast the beets
 Preheat your oven to 400°F (200°C). Wrap each beet individually in foil with a drizzle of olive oil and a pinch of salt. Place on a baking sheet and roast for 50–60 minutes, until a knife slides through easily. Let cool slightly, then rub off the skins with a paper towel (wear gloves if using red beets). Cut into wedges or thick rounds.

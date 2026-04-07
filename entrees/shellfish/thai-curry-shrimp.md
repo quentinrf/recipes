@@ -1,3 +1,26 @@
+---
+tags:
+  - entree
+  - shellfish
+  - thai
+  - fry
+  - medium
+  - medium
+  - all-season
+  - gluten-free
+  - dairy-free
+  - rich
+  - spicy
+  - aromatic
+serves: 2-3
+prep_time: 20 min
+cook_time: 25 min
+related:
+  - "[[Coconut Lime Scallop]]"
+  - "[[Carrot Ginger Soup]]"
+  - "[[Saffron Cioppino with Aioli Crostini]]"
+---
+
 # Thai Curry Shrimp
 
 *With Japanese Eggplant, Crispy Shallots & Cucumber Vinegar Salad*

@@ -1,3 +1,26 @@
+---
+tags:
+  - entree
+  - shellfish
+  - fish
+  - italian
+  - american
+  - braise
+  - medium
+  - long
+  - all-season
+  - dairy-free
+  - rich
+  - aromatic
+  - umami
+serves: 4
+prep_time: 20 min
+cook_time: 40 min
+related:
+  - "[[Coconut Lime Scallop]]"
+  - "[[Thai Curry Shrimp]]"
+---
+
 # Saffron Cioppino with Aioli Crostini
 
 *A tomato-based seafood stew with bloomed saffron, served with garlic aioli crostini and fresh parsley*
