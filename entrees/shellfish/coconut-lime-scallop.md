@@ -1,3 +1,28 @@
+---
+tags:
+  - entree
+  - shellfish
+  - fusion
+  - sear
+  - emulsify
+  - fry
+  - advanced
+  - long
+  - all-season
+  - gluten-free
+  - dairy-free
+  - rich
+  - bright
+  - aromatic
+serves: 4
+prep_time: 45 min
+cook_time: 30 min
+related:
+  - "[[Saffron Cioppino with Aioli Crostini]]"
+  - "[[Thai Curry Shrimp]]"
+  - "[[Cold Roasted Beet Salad with Burrata]]"
+---
+
 # Coconut Lime Scallop
 *Serves 4*
 

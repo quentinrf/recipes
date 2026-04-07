@@ -1,3 +1,25 @@
+---
+tags:
+  - soup
+  - vegetarian
+  - fusion
+  - blend
+  - easy
+  - quick
+  - all-season
+  - dairy-free
+  - gluten-free
+  - vegan
+  - bright
+  - aromatic
+serves: 4
+prep_time: 10 min
+cook_time: 30 min
+related:
+  - "[[Thai Curry Shrimp]]"
+  - "[[Saffron Cioppino with Aioli Crostini]]"
+---
+
 # Simple Carrot Ginger Soup
 
 *Serves 4 | Prep: 10 min | Cook: 30 min*
@@ -23,7 +45,7 @@
 
 ---
 
-## Instructions
+## Method
 
 ### 1. Sauté the aromatics
 In a large pot over medium heat, warm the olive oil or butter. Add the onion and a pinch of salt and cook for 5–6 minutes until soft and translucent. Add the garlic and ginger and cook for another 1–2 minutes until fragrant.
